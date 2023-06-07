@@ -1,1 +1,1 @@
-# homeautamation
+# homeautomation
